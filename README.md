@@ -2,7 +2,7 @@
 First react hooks clone
 
 - [ ] useTitle
-- [ ] useInput
+- [x] useInput
 - [ ] usePageLeave
 - [ ] useClick
 - [ ] useFadeIn
@@ -11,7 +11,7 @@ First react hooks clone
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [ ] useTabs
+- [x] useTabs
 - [ ] usePreventLeave
 - [ ] useConfirm
 - [ ] useAxios

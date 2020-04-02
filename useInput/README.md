@@ -4,8 +4,8 @@
 import useInput from "@react_hooks_first/use-input"
 
 const App = () => {
-    const noAt = value => !value.includes("@");
-    const name = useInput ("Ms", noAt);
+    const validator = value => !value.includes("@");
+    const name = useInput ("Ms", validator);
     return (
         <div className="App">
             <h1>Helllllo</h1>
