@@ -1,7 +1,7 @@
 # react_hooks_first
 First react hooks clone
 
-- [ ] useTitle
+- [x] useTitle
 - [x] useInput
 - [ ] usePageLeave
 - [ ] useClick
