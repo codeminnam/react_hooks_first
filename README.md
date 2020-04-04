@@ -5,10 +5,10 @@ First react hooks clone
 - [x] useInput
 - [x] useBeforeLeave
 - [x] useClick
-- [ ] useFadeIn
+- [x] useFadeIn
 - [ ] useFullscreen
 - [x] useHover
-- [ ] useNetwork
+- [x] useNetwork
 - [ ] useNotification
 - [ ] useScroll
 - [x] useTabs
