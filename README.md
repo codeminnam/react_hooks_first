@@ -9,7 +9,7 @@ First react hooks clone
 - [x] useFullscreen
 - [x] useHover
 - [x] useNetwork
-- [ ] useNotification
+- [x] useNotification
 - [x] useScroll
 - [x] useTabs
 - [x] usePreventLeave
