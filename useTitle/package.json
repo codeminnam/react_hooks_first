@@ -1,0 +1,25 @@
+{
+  "name": "@react_hooks_first/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeminnam/react_hooks_first.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "Min Nam <code.minnam@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeminnam/react_hooks_first/issues"
+  },
+  "homepage": "https://github.com/codeminnam/react_hooks_first#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
