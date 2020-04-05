@@ -6,11 +6,11 @@ First react hooks clone
 - [x] useBeforeLeave
 - [x] useClick
 - [x] useFadeIn
-- [ ] useFullscreen
+- [x] useFullscreen
 - [x] useHover
 - [x] useNetwork
 - [ ] useNotification
-- [ ] useScroll
+- [x] useScroll
 - [x] useTabs
 - [x] usePreventLeave
 - [x] useConfirm
